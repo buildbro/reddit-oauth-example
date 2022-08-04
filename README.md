@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Demo app that shows how to implement Sign in With Reddit in a simple Next.js application.
+
+## Before Getting Started
+Please search pages/index.js and pages/profile.js and replace the values for CLIENT_ID and CLIENT_SECRET with your own Reddit application client ID and Secret.
+
+Don't have a Reddit application yet? create one here: https://www.reddit.com/prefs/apps
 
 ## Getting Started
 
